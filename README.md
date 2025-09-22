@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Evindu+Ishen+%F0%9F%91%8B;Software+Engineering+Undergraduate+%7C+Full-Stack+%26+Mobile+Dev;Open+to+IT+Internship+Opportunities" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hi%2C+I'm+Evindu+Ishen+%F0%9F%91%8B;Software+Engineering+Undergraduate+%7C+Full-Stack+%26+Mobile+Dev;alt="Typing SVG">
 </p>
 
 <p align="center">
